@@ -21,7 +21,7 @@
 
 ### 🐍 Animação de Contribuições
 
-![Snake animation](https://github.com/seu-usuario/lacerdaaa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lacerdaaa/lacerdaaa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
