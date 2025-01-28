@@ -12,9 +12,10 @@
 ---
 
 ### 📊 Minhas Estatísticas
-
+<div style={ display="flex", alignItems:"center"}>
 ![Estatísticas do GitHub de Eduardo Lacerda](https://github-readme-stats.vercel.app/api?username=lacerdaaa&show_icons=true&theme=dracula)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdaaa&layout=compact&theme=dracula)
+</div>
 
 ---
 
