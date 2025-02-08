@@ -12,7 +12,7 @@
     <img align="center" alt="next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </div>
 
-  <div>
+  <div display="flex", align="center">
     <h3>📊 Minhas Estatísticas</h3>
     <div>
       <img src="https://github-readme-stats.vercel.app/api?username=lacerdaaa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Eduardo Lacerda">
