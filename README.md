@@ -1,5 +1,9 @@
 ## Olá! Eu sou Eduardo Lacerda, desenvolvedor fullstack!!
 
+![GitHub User's stars](https://img.shields.io/github/stars/lacerdaaa)
+![GitHub followers](https://img.shields.io/github/followers/lacerdaaa)
+[![Visits Badge](https://badges.pufler.dev/visits/lacerdaaa/lacerdaaa)](https://lacerdaaa.github.io)
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
