@@ -27,8 +27,8 @@
   <div style="display: flex; justify-content: center; gap: 20px;">
     <h3>🌐 Contatos</h3>
     <div>
-      [![X (formerly Twitter)](https://img.shields.io/badge/@olacerdadev-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=olacerdadev)
-      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacerdadev/)
+      [![X (formerly Twitter)](https://img.shields.io/badge/@olacerdadev-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=olacerdadev)]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacerdadev/)
     </div>
   </div>
 </div>
