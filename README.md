@@ -12,28 +12,30 @@
     <img align="center" alt="next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   </div>
 
-  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
-    <h3>📊 Minhas Estatísticas</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=lacerdaaa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Eduardo Lacerda">
-    </div>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdaaa&layout=compact&theme=dracula" alt="Linguagens mais utilizadas">
+      <h3>📊 Minhas Estatísticas</h3>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=lacerdaaa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Eduardo Lacerda">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdaaa&layout=compact&theme=dracula" alt="Linguagens mais utilizadas">
+      </div>
     </div>
   </div>
 
-  <div style="display: flex; flex-direction: row; align-items: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <h3>🌐 Contatos</h3>
     <div>
+      <a href="https://x.com/eduardolacerda" target="_blank">
+        <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank">
+      </a>
+      <a href="https://www.linkedin.com/in/eduardo-lacerda-33b17426b/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a>
       <a href="https://www.instagram.com/dulacerd4/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
       </a>
-      <a href="https://x.com/olacerdadev">
-        <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Folacerdadev
-" target="_blank">
-      </a>
-      <a href="https://www.linkedin.com/in/eduardo-lacerda-33b17426b/" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/:olacerdadev" target="_blank">
-      </a>
-      <a href="https://x.com/eduardolacerda" target="_blank">
-        <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=
+    </div>
+  </div>
+</div>
