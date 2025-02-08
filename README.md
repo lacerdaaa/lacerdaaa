@@ -27,8 +27,8 @@
   <div style="display: flex; justify-content: center; gap: 20px;">
     <h3>🌐 Contatos</h3>
     <div>
-      <a href="https://x.com/eduardolacerda" target="_blank">
-        <img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" target="_blank">
+      <a href="https://x.com/olacerdadev" target="_blank">
+        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Folacerdadev">
       </a>
       <a href="https://www.linkedin.com/in/eduardo-lacerda-33b17426b/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
