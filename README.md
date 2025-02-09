@@ -15,6 +15,8 @@
 - 🎓 Estou cursando **Desenvolvimento de Sistemas**  
 - 🔹 Tenho um interesse latente por **UI** & **UX**
 
+  <hr/>
+
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <div style="display: flex; justify-content: center; gap: 10px;">
