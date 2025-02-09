@@ -30,6 +30,8 @@
     <img align="center" alt="next.js" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
   </div>
 
+<hr>
+
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <h3>📊 Minhas Estatísticas</h3>
