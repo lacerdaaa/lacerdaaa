@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/lacerdaaa)
 [![Visits Badge](https://badges.pufler.dev/visits/lacerdaaa/lacerdaaa)](https://lacerdaaa.github.io)
 
-<div>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=sobre+mim;full+stack+developer;angular+%26+nodejs)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 - 🔹 Tenho experiência em **Next.js**  
 - 🎓 Estou cursando **Desenvolvimento de Sistemas**  
 - 🔹 Tenho um interesse latente por **UI** & **UX**
-</div>
+
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <div style="display: flex; justify-content: center; gap: 10px;">
