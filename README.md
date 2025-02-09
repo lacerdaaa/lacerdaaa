@@ -4,7 +4,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/lacerdaaa)
 [![Visits Badge](https://badges.pufler.dev/visits/lacerdaaa/lacerdaaa)](https://lacerdaaa.github.io)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=fullstack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=fullstack+developer;angular+%26+nodejs;nextjs+%26+nodejs)](https://git.io/typing-svg)
+
+# 👨‍💻 Sobre Mim  
+
+- Olá! Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e soluções inovadoras. 🚀  
+- 🔹 Trabalho atualmente com **Angular** e **Node.js**  
+- 🔹 Tenho experiência em **Next.js**  
+- 🎓 Estou cursando **Desenvolvimento de Sistemas**  
+- Sempre buscando aprender e evoluir! 💡✨  
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <div style="display: flex; justify-content: center; gap: 10px;">
