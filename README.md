@@ -5,14 +5,15 @@
 [![Visits Badge](https://badges.pufler.dev/visits/lacerdaaa/lacerdaaa)](https://lacerdaaa.github.io)
 
 <div>
+# 👨‍💻 Sobre mim
   
-# 👨‍💻 Sobre Mim  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=fullstack+developer;angular+%26+nodejs;nextjs+%26+nodejs)](https://git.io/typing-svg)
+
 - Olá! Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e soluções inovadoras. 🚀  
 - 🔹 Trabalho atualmente com **Angular** e **Node.js**  
 - 🔹 Tenho experiência em **Next.js**  
 - 🎓 Estou cursando **Desenvolvimento de Sistemas**  
-- Sempre buscando aprender e evoluir! 💡✨  
+- 🔹 Tenho um interesse latente por **UI** & **UX**
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
