@@ -8,7 +8,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=sobre+mim;full+stack+developer;angular+%26+nodejs)](https://git.io/typing-svg)
 
-- Olá! Sou um **Desenvolvedor Full Stack** apaixonado por desenvolvimento web/desktop 🚀  
+- Olá! Sou um **Desenvolvedor Full Stack** apaixonado por desenvolvimento web/mobile 🚀  
 - 🔹 Trabalho atualmente com **Angular** e **Node.js**  
 - 🔹 Estou estudando java e spring boot 👨‍💻
 - 🔹 Tenho experiência em **Next.js**  
