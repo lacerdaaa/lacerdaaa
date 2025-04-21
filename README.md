@@ -6,7 +6,7 @@
 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=sobre+mim;full+stack+developer;angular+%26+nodejs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&color=9339C5&width=435&lines=angular%2C+nodejs+%26+java)](https://git.io/typing-svg)
 
 - Olá! Sou um **Desenvolvedor Full Stack** apaixonado por desenvolvimento web/mobile 🚀  
 -  Trabalho atualmente com **Angular** e **Node.js**  
@@ -28,6 +28,8 @@
     <img align="center" alt="tailwind" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg">
     <img align="center" alt="React" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg">
     <img align="center" alt="next.js" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" />
+    <img align="center" alt="Java" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
+    <img align="center" alt="spring" height="65" width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" />
   </div>
 
 <hr>
