@@ -41,9 +41,6 @@
       <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdaaa&layout=compact&theme=dracula" alt="Linguagens mais utilizadas">
       </div>
-      <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=lacerdaaa&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Eduardo Lacerda">
-      </div>
     </div>
   </div>
 
