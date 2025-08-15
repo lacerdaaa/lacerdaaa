@@ -34,10 +34,9 @@
   </div>
 
 <hr>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lacerdaaa/lacerdaaa/c51a0ebf7aa91370328ee044de28d91995acb2da/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lacerdaaa/lacerdaaa/c51a0ebf7aa91370328ee044de28d91995acb2da/github-snake-dark.svg" />
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
 </picture>
 
