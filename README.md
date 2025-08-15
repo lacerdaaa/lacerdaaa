@@ -35,6 +35,13 @@
 
 <hr>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
+</picture>
+
+
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <div>
       <h3>📊 Minhas Estatísticas</h3>
@@ -52,9 +59,3 @@
     
   </div>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/lacerdaa/lacerdaa/output/github-snake.svg" />
-</picture>
