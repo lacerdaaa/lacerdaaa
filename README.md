@@ -9,7 +9,7 @@
 - Hello! I'm a **Full Stack Developer** passionate about web development and devops 🚀  
 - I currently work with **Angular** and **Node.js**  
 - I'm building **Pressum**, and **Fynansee**
-- I deeply care with software pattern and well practices
+- I deeply care with software patterns and well practices
 
 ---
 
