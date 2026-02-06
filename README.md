@@ -8,9 +8,9 @@
 
 - Hello! I'm a **Full Stack Developer** passionate about web development and devops 🚀  
 - I currently work with **Angular** and **Node.js**  
-- I'm building **Pressum**, the future of brazilian exams preparation
-- I'm Studying the wonderful .net platform
-- 
+- I'm building **Pressum**, and **Fynansee**
+- I deeply care with software pattern and well practices
+
 ---
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
