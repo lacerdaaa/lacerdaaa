@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/lacerdaaa)
 [![Visits Badge](https://badges.pufler.dev/visits/lacerdaaa/lacerdaaa)](https://lacerdaaa.github.io)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&color=9339C5&width=435&lines=angular%2C+nodejs+%26+java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A71DA3&width=435&lines=angular%2C+nestjs+and+.net)](https://git.io/typing-svg)
 
 - Hello! I'm a **Full Stack Developer** passionate about web development and devops 🚀  
 - I currently work with **Angular** and **Node.js**  
