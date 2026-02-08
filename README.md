@@ -40,7 +40,7 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
 
 ### 🌐 Connect with Me
 
-[![X (formerly Twitter)](https://img.shields.io/badge/@olacerdadev-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=olacerdadev)
+[![X (formerly Twitter)](https://img.shields.io/badge/@olacerdadev-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=thelacerdadev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacerdadev/)
 
 </td>
@@ -70,6 +70,5 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
 
 ### 📊 My Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lacerdaaa&layout=compact&theme=dracula" alt="Most used languages">
-
+[![Lacerda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacerdaaa)](https://github.com/anuraghazra/github-readme-stats)
 </div>
