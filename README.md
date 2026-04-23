@@ -31,11 +31,8 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
   <img alt="Angular" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
   <img alt="Node.js" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
   <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img alt="TailwindCSS" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
   <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
   <img alt="Next.js" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
-  <img alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img alt="Spring" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
 </div>
 
 ### 🌐 Connect with Me
