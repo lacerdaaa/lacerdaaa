@@ -67,5 +67,5 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
 
 ### 📊 My Stats
 
-[![Lacerda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacerdaaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Lacerda's GitHub stats](https://github-stats-extended.vercel.app/api?username=lacerdaaa)](https://github.com/anuraghazra/github-readme-stats)
 </div>
