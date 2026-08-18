@@ -1,12 +1,10 @@
-# Hello! I'm Eduardo Lacerda, a Fullstack Developer!! 👋
-
+# Hello! I'm Eduardo Lacerda, a Software Engineering Consultant!! 
 <div align="center">
-
+  
 ![GitHub User's stars](https://img.shields.io/github/stars/lacerdaaa)
 ![GitHub followers](https://img.shields.io/github/followers/lacerdaaa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A71DA3&width=435&lines=angular%2C+nestjs+and+.net)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=C04C91&width=435&lines=consulting+and+building;reliable+solutions)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -17,14 +15,13 @@
 
 ### 🚀 About Me
 
-My name is **Eduardo** and I'm a software developer based in Brazil, more specifically in Campinas, São Paulo. I'm truly passionate about technology and the endless possibilities it brings to build anything imaginable. 
+I'm **Eduardo**, a Software Engineering Consultant based in Campinas, São Paulo. Passionate about building scalable systems and writing clean, testable code.
 
-I work primarily with **TypeScript**, using frameworks such as **Angular**, **React**, and **Node.js**. I also have hands-on experience with **.NET** and **Python**. Currently, I'm building **Pressum** and **Fynansee**.
+I work primarily with **TypeScript** (Angular, React, Node.js), **C#/.NET Core**, and **Python**. Strong background in cloud architecture (AWS, Azure), distributed systems, and observability. Advocate of **Domain-Driven Design (DDD)** and **Test-Driven Development (TDD)**.
+I have strong interest in Fintechs and plan to work in the financial/accountant business.
 
-Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care about software development best practices, including **Domain-Driven Design (DDD)** and **Test-Driven Development (TDD)**.
 
 ### 💻 Tech Stack
-
 <div align="center">
   <img alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
   <img alt=".NET" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
@@ -38,17 +35,18 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
 </div>
 
 ### 🌐 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacerdadev/)
 
 </td>
 <td width="40%">
-
 <img width="100%" alt="Profile Image" src="https://github.com/user-attachments/assets/54838742-1a40-4292-8f21-beb49d7cac4a" />
-
 </td>
 </tr>
 </table>
+
+---
+
+[resto do README igual]
 
 ---
 
