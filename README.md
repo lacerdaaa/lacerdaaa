@@ -26,18 +26,19 @@ Beyond coding, I enjoy reading, cooking, and listening to music. I deeply care a
 ### 💻 Tech Stack
 
 <div align="center">
-  <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img alt=".NET" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
+  <img alt="AWS" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
+  <img alt="Azure" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg">
   <img alt="Angular" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
-  <img alt="Node.js" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-  <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-  <img alt="Next.js" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
+  <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+  <img alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  <img alt="Kubernetes" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg">
+  <img alt="Grafana" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg">
 </div>
 
 ### 🌐 Connect with Me
 
-[![X (formerly Twitter)](https://img.shields.io/badge/@olacerdadev-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/user?screen_name=thelacerdadev)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olacerdadev/)
 
 </td>
