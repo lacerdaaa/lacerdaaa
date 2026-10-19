@@ -46,8 +46,6 @@ I have strong interest in Fintechs and plan to work in the financial/accountant 
 
 ---
 
-[resto do README igual]
-
 ---
 
 <div align="center">
